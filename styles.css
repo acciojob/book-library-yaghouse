@@ -1,30 +1,94 @@
-ody {
-	background-color: #f8f8f8;
+*{
+
+  padding:0px;
+
+  margin:0px;
+
 }
 
-.book-library {
-	background-color: #ffffff;	
-	color: black;
-	box-shadow: 10px 10px 5px grey;
+body{
+
+  background-color:#f8f8f8;
+
+  text-align:center;
+
+	width:50%; 
+
+	
+
 }
 
-.book {
-	width: 50%;
-	color: white; /* Sets the color of text within the book div to white */
+.book-library{
+
+  margin: 10px;
+
+  background-color:#ffffff;
+
+	
+
 }
 
-.author {
-	color: #777777;	
+.book{
+
+ padding:20px;
+
+  background-color: #F1F1F1; 
+
 }
 
-.price {
-	color: #2ecc71;
-	border: 2px solid green;
-	text-align: center;
-	background-color: lightgreen;
-	border-radius: 10px; /* Adjust as needed */
+  div{
+
+	  margin-bottom: 10px; 
+
+	 
+
+  }
+.author{
+
+  text-align:left;
+
+  font-size:6px;
+
+	color:#777777;
+
 }
 
-h1 {
-	text-align: center;
+.text{
+
+  text-align:left;
+
+  font-weight: bold;
+
+  font-size:7px
+
+}
+
+h1{
+
+	 background-color: #f0f0f0; 
+
+  font-size:9px;
+
+	padding:5px
+
+}
+
+.price{
+
+  width: 95%;
+
+  background-color: #2ecc71;
+
+  color: white;
+
+  padding: 5px 10px; 
+
+  display: inline-block;
+
+  font-size: 5px;
+
+  margin: 4px 2px;
+
+  cursor: pointer;
+
 }
