@@ -5,6 +5,7 @@ body {
 .book-library {
 	background-color: #ffffff;	
 	color: black;
+	box-shadow: 10px 10px 5px grey;
 }
 .author {
 	 color: #777777;	
@@ -14,4 +15,10 @@ body {
 	border: 2px solid green;
 	text-align:center;
 	background-color:lightgreen;
+}
+div {
+	width: 50%;
+}
+h1 {
+	text-align:center;
 }
