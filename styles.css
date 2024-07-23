@@ -14,8 +14,11 @@ body {
 	color:#2ecc71;
 	border: 2px solid green;
 	text-align:center;
-	background-color:lightgreen;
+	background-color:rgb(46, 204, 113);
+	border radius: 10px;
 }
+
+
 div {
 	width: 50%;
 }
